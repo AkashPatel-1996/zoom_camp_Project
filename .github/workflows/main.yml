@@ -24,4 +24,4 @@ jobs:
     - name: Build Docker image
       run: docker build -t akashllmproject/final_prediction_image:latest Code/end_point_code/.
     - name: Push Docker image
-      run: docker push your-dockerhub-username/final_prediction_image:latest
+      run: docker push akashllmproject/final_prediction_image:latest
