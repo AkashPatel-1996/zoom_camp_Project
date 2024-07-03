@@ -38,3 +38,6 @@
 # CI pass
 
 [![Python application test with Github Actions](https://github.com/AkashPatel-1996/zoom_camp_Project/actions/workflows/main.yml/badge.svg)](https://github.com/AkashPatel-1996/zoom_camp_Project/actions/workflows/main.yml)
+
+![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/df958a24-55e4-4274-92f7-382b120175cb)
+
