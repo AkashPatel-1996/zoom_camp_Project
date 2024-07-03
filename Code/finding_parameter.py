@@ -10,7 +10,10 @@ from sklearn.model_selection import train_test_split
 
 
 def objective(params,X,Y):
+    mlflow.set_tracking_uri("sqlite:///mlflow.db")
+    mlflow.set_experiment("cancer dataset pipeline experiment")
     with mlflow.start_run():
+
         mlflow.log_params(params)
         model = LogisticRegression(
             C=params['C'],
@@ -25,6 +28,7 @@ def objective(params,X,Y):
         Y_pred = model.predict(X_test)
         accuracy = accuracy_score(Y_test, Y_pred)
         print(accuracy)
+        
         
         return {'loss': 1 - accuracy, 'status': STATUS_OK}
 
