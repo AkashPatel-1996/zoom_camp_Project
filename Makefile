@@ -3,10 +3,10 @@ install:
 		pip install -r requirments.txt
 
 test:
-	python -m pytest -vv test_*.py
+	python -m pytest -vv Code/test_*.py
 
 format:
 	black *.py
 
 
-all: install lint test
+all: install  test
