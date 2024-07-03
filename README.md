@@ -31,5 +31,9 @@
 
 ![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/9b4805de-2f1d-41bd-a945-4470b852f46b)
 
+# CI pass
+
+[![Python application test with Github Actions](https://github.com/AkashPatel-1996/zoom_camp_Project/actions/workflows/main.yml/badge.svg)](https://github.com/AkashPatel-1996/zoom_camp_Project/actions/workflows/main.yml)
+
 ![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/f5ce73b0-78de-4b70-b50e-75a1a8e1ab39)
 
