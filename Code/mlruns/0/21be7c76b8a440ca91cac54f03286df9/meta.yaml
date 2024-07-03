@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/21be7c76b8a440ca91cac54f03286df9/artifacts
+end_time: 1719992752182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21be7c76b8a440ca91cac54f03286df9
+run_name: flawless-bear-298
+run_uuid: 21be7c76b8a440ca91cac54f03286df9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992752085
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ad60edcb3c604d8eaf99ab01d02ab280/artifacts
+end_time: 1719993638526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad60edcb3c604d8eaf99ab01d02ab280
+run_name: omniscient-quail-561
+run_uuid: ad60edcb3c604d8eaf99ab01d02ab280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993638432
+status: 3
+tags: []
+user_id: codespace

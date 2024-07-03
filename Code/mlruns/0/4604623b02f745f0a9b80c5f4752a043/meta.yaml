@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/4604623b02f745f0a9b80c5f4752a043/artifacts
+end_time: 1719993305665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4604623b02f745f0a9b80c5f4752a043
+run_name: unique-slug-942
+run_uuid: 4604623b02f745f0a9b80c5f4752a043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305515
+status: 3
+tags: []
+user_id: codespace

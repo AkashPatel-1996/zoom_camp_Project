@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/fd26178025784dc3b08db80541c2e20d/artifacts
+end_time: 1719993305690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd26178025784dc3b08db80541c2e20d
+run_name: whimsical-grouse-712
+run_uuid: fd26178025784dc3b08db80541c2e20d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305673
+status: 3
+tags: []
+user_id: codespace

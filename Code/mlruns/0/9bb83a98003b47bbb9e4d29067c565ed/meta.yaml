@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/9bb83a98003b47bbb9e4d29067c565ed/artifacts
+end_time: 1719993641093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bb83a98003b47bbb9e4d29067c565ed
+run_name: industrious-shad-846
+run_uuid: 9bb83a98003b47bbb9e4d29067c565ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993640995
+status: 3
+tags: []
+user_id: codespace

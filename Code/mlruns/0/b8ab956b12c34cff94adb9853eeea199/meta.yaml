@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/b8ab956b12c34cff94adb9853eeea199/artifacts
+end_time: 1719993640211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8ab956b12c34cff94adb9853eeea199
+run_name: delicate-skink-276
+run_uuid: b8ab956b12c34cff94adb9853eeea199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993640084
+status: 3
+tags: []
+user_id: codespace

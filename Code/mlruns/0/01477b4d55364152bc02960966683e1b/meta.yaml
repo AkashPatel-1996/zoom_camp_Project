@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/01477b4d55364152bc02960966683e1b/artifacts
+end_time: 1719992698038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01477b4d55364152bc02960966683e1b
+run_name: monumental-hound-420
+run_uuid: 01477b4d55364152bc02960966683e1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992697930
+status: 3
+tags: []
+user_id: codespace

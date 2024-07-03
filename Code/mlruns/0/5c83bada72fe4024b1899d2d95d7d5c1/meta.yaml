@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/5c83bada72fe4024b1899d2d95d7d5c1/artifacts
+end_time: 1719992749707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c83bada72fe4024b1899d2d95d7d5c1
+run_name: illustrious-owl-623
+run_uuid: 5c83bada72fe4024b1899d2d95d7d5c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992749689
+status: 3
+tags: []
+user_id: codespace

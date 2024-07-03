@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/90f5572ce8994ef48570e190fb160cc1/artifacts
+end_time: 1719993218278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90f5572ce8994ef48570e190fb160cc1
+run_name: merciful-chimp-349
+run_uuid: 90f5572ce8994ef48570e190fb160cc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993218242
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/599c1646ab5e418e87ec830c7c349e66/artifacts
+end_time: 1719993637597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 599c1646ab5e418e87ec830c7c349e66
+run_name: blushing-gnat-70
+run_uuid: 599c1646ab5e418e87ec830c7c349e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993637478
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/f9592b38d1314a1c85a6ddee751f8fa7/artifacts
+end_time: 1719992749896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9592b38d1314a1c85a6ddee751f8fa7
+run_name: exultant-mouse-616
+run_uuid: f9592b38d1314a1c85a6ddee751f8fa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992749863
+status: 3
+tags: []
+user_id: codespace

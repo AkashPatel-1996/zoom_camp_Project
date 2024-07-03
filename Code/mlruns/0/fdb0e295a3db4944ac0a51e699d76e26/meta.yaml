@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/fdb0e295a3db4944ac0a51e699d76e26/artifacts
+end_time: 1719993190711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fdb0e295a3db4944ac0a51e699d76e26
+run_name: gentle-lamb-722
+run_uuid: fdb0e295a3db4944ac0a51e699d76e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993190631
+status: 3
+tags: []
+user_id: codespace

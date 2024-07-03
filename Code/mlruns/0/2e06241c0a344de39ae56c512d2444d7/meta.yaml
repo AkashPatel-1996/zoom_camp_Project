@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/2e06241c0a344de39ae56c512d2444d7/artifacts
+end_time: 1719992300207
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e06241c0a344de39ae56c512d2444d7
+run_name: valuable-moth-336
+run_uuid: 2e06241c0a344de39ae56c512d2444d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300087
+status: 3
+tags: []
+user_id: codespace

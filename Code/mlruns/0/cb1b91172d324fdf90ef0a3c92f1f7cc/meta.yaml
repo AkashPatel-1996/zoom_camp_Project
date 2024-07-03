@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/cb1b91172d324fdf90ef0a3c92f1f7cc/artifacts
+end_time: 1719993220239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb1b91172d324fdf90ef0a3c92f1f7cc
+run_name: redolent-shad-924
+run_uuid: cb1b91172d324fdf90ef0a3c92f1f7cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993220216
+status: 3
+tags: []
+user_id: codespace

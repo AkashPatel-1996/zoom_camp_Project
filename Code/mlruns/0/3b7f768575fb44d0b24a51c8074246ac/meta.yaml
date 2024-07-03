@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/3b7f768575fb44d0b24a51c8074246ac/artifacts
+end_time: 1719993191383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b7f768575fb44d0b24a51c8074246ac
+run_name: invincible-doe-267
+run_uuid: 3b7f768575fb44d0b24a51c8074246ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993191367
+status: 3
+tags: []
+user_id: codespace

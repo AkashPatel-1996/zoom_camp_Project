@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/9cd3552635254c80bb3833cac0fffbd4/artifacts
+end_time: 1719992698092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9cd3552635254c80bb3833cac0fffbd4
+run_name: monumental-ram-38
+run_uuid: 9cd3552635254c80bb3833cac0fffbd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698042
+status: 3
+tags: []
+user_id: codespace

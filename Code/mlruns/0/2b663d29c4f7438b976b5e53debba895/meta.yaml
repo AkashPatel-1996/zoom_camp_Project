@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/2b663d29c4f7438b976b5e53debba895/artifacts
+end_time: 1719993304946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b663d29c4f7438b976b5e53debba895
+run_name: incongruous-gnu-345
+run_uuid: 2b663d29c4f7438b976b5e53debba895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304927
+status: 3
+tags: []
+user_id: codespace

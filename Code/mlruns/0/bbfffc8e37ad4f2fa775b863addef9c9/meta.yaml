@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/bbfffc8e37ad4f2fa775b863addef9c9/artifacts
+end_time: 1719993330678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbfffc8e37ad4f2fa775b863addef9c9
+run_name: incongruous-croc-174
+run_uuid: bbfffc8e37ad4f2fa775b863addef9c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993330647
+status: 3
+tags: []
+user_id: codespace

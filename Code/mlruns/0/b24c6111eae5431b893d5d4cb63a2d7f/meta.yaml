@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/b24c6111eae5431b893d5d4cb63a2d7f/artifacts
+end_time: 1719993218394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b24c6111eae5431b893d5d4cb63a2d7f
+run_name: magnificent-newt-2
+run_uuid: b24c6111eae5431b893d5d4cb63a2d7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993218376
+status: 3
+tags: []
+user_id: codespace

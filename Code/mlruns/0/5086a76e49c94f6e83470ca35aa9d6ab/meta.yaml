@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/5086a76e49c94f6e83470ca35aa9d6ab/artifacts
+end_time: 1719992299898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5086a76e49c94f6e83470ca35aa9d6ab
+run_name: bald-loon-97
+run_uuid: 5086a76e49c94f6e83470ca35aa9d6ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992299885
+status: 3
+tags: []
+user_id: codespace

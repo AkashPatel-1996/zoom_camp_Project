@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/2bed2d0bca374e61afda1cbfa366d6b9/artifacts
+end_time: 1719993637329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bed2d0bca374e61afda1cbfa366d6b9
+run_name: nosy-sheep-96
+run_uuid: 2bed2d0bca374e61afda1cbfa366d6b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993637295
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/a66cc2f6c4284bef98e38c94db8dca6c/artifacts
+end_time: 1719992301296
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a66cc2f6c4284bef98e38c94db8dca6c
+run_name: wistful-toad-780
+run_uuid: a66cc2f6c4284bef98e38c94db8dca6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992301190
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/bec0e5ea820745c8a952b3287c39f293/artifacts
+end_time: 1719992699413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bec0e5ea820745c8a952b3287c39f293
+run_name: gentle-yak-415
+run_uuid: bec0e5ea820745c8a952b3287c39f293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992699390
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/6c18ca3475d54e57a5ecadf904de1098/artifacts
+end_time: 1719992300633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c18ca3475d54e57a5ecadf904de1098
+run_name: charming-ox-600
+run_uuid: 6c18ca3475d54e57a5ecadf904de1098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300615
+status: 3
+tags: []
+user_id: codespace

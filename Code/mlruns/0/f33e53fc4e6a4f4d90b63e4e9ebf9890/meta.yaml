@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/f33e53fc4e6a4f4d90b63e4e9ebf9890/artifacts
+end_time: 1719992697926
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f33e53fc4e6a4f4d90b63e4e9ebf9890
+run_name: polite-stoat-589
+run_uuid: f33e53fc4e6a4f4d90b63e4e9ebf9890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992697910
+status: 3
+tags: []
+user_id: codespace

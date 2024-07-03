@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/9994f9d87e5e46aab48ec6844e7c3f6a/artifacts
+end_time: 1719993303543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9994f9d87e5e46aab48ec6844e7c3f6a
+run_name: honorable-mare-573
+run_uuid: 9994f9d87e5e46aab48ec6844e7c3f6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993303491
+status: 3
+tags: []
+user_id: codespace

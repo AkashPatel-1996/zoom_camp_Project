@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/53f52eb831e845bf8effce8d5dc0f814/artifacts
+end_time: 1719993639228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53f52eb831e845bf8effce8d5dc0f814
+run_name: sneaky-snail-49
+run_uuid: 53f52eb831e845bf8effce8d5dc0f814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993639203
+status: 3
+tags: []
+user_id: codespace

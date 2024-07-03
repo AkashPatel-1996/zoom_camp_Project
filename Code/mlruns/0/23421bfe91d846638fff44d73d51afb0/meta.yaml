@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/23421bfe91d846638fff44d73d51afb0/artifacts
+end_time: 1719993304971
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23421bfe91d846638fff44d73d51afb0
+run_name: aged-worm-46
+run_uuid: 23421bfe91d846638fff44d73d51afb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304953
+status: 3
+tags: []
+user_id: codespace

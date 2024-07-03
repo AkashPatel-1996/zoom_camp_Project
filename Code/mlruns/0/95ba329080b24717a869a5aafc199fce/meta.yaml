@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/95ba329080b24717a869a5aafc199fce/artifacts
+end_time: 1719993639096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95ba329080b24717a869a5aafc199fce
+run_name: hilarious-perch-39
+run_uuid: 95ba329080b24717a869a5aafc199fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993638985
+status: 3
+tags: []
+user_id: codespace

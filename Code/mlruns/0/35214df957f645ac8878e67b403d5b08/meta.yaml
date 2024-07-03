@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/35214df957f645ac8878e67b403d5b08/artifacts
+end_time: 1719993331676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35214df957f645ac8878e67b403d5b08
+run_name: treasured-hare-402
+run_uuid: 35214df957f645ac8878e67b403d5b08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993331639
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/dd540de2b6e44e98ba6a52ca0fec0375/artifacts
+end_time: 1719993190801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd540de2b6e44e98ba6a52ca0fec0375
+run_name: angry-gull-470
+run_uuid: dd540de2b6e44e98ba6a52ca0fec0375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993190779
+status: 3
+tags: []
+user_id: codespace

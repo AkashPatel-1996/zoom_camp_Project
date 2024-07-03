@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/34aab243bc504dda9ba8b76430e7c5b3/artifacts
+end_time: 1719993192573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34aab243bc504dda9ba8b76430e7c5b3
+run_name: merciful-croc-209
+run_uuid: 34aab243bc504dda9ba8b76430e7c5b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993192509
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/39950233409b42328d69927c9dc78567/artifacts
+end_time: 1719993218234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39950233409b42328d69927c9dc78567
+run_name: monumental-goat-314
+run_uuid: 39950233409b42328d69927c9dc78567
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993218146
+status: 3
+tags: []
+user_id: codespace

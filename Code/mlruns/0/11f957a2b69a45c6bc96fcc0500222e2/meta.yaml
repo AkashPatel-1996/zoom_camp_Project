@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/11f957a2b69a45c6bc96fcc0500222e2/artifacts
+end_time: 1719992300545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11f957a2b69a45c6bc96fcc0500222e2
+run_name: merciful-dolphin-855
+run_uuid: 11f957a2b69a45c6bc96fcc0500222e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300530
+status: 3
+tags: []
+user_id: codespace

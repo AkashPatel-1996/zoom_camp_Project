@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/7c779d20f5e5478a9beef75b4009a407/artifacts
+end_time: 1719993220822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c779d20f5e5478a9beef75b4009a407
+run_name: tasteful-shrimp-50
+run_uuid: 7c779d20f5e5478a9beef75b4009a407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993220739
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/485a671cdbb542c4840417bd2f0bda7e/artifacts
+end_time: 1719993331400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 485a671cdbb542c4840417bd2f0bda7e
+run_name: traveling-gnu-17
+run_uuid: 485a671cdbb542c4840417bd2f0bda7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993331368
+status: 3
+tags: []
+user_id: codespace

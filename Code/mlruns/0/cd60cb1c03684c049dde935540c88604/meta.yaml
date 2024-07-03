@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/cd60cb1c03684c049dde935540c88604/artifacts
+end_time: 1719992301516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd60cb1c03684c049dde935540c88604
+run_name: sedate-stork-529
+run_uuid: cd60cb1c03684c049dde935540c88604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992301501
+status: 3
+tags: []
+user_id: codespace

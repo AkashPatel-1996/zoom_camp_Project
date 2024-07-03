@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/434fedf9acce4f008c97099ccdc2eeec/artifacts
+end_time: 1719993331147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 434fedf9acce4f008c97099ccdc2eeec
+run_name: grandiose-shrimp-138
+run_uuid: 434fedf9acce4f008c97099ccdc2eeec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993331098
+status: 3
+tags: []
+user_id: codespace

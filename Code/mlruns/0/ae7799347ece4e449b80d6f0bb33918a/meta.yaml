@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ae7799347ece4e449b80d6f0bb33918a/artifacts
+end_time: 1719993331507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae7799347ece4e449b80d6f0bb33918a
+run_name: grandiose-crab-168
+run_uuid: ae7799347ece4e449b80d6f0bb33918a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993331454
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/7d25ebbbc80b4ffaa2fcfd3755422bab/artifacts
+end_time: 1719993219038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d25ebbbc80b4ffaa2fcfd3755422bab
+run_name: big-snipe-985
+run_uuid: 7d25ebbbc80b4ffaa2fcfd3755422bab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993218927
+status: 3
+tags: []
+user_id: codespace

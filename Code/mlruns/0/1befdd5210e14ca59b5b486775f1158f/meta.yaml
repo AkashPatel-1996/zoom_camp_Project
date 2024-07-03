@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/1befdd5210e14ca59b5b486775f1158f/artifacts
+end_time: 1719992698646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1befdd5210e14ca59b5b486775f1158f
+run_name: painted-gnat-370
+run_uuid: 1befdd5210e14ca59b5b486775f1158f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698551
+status: 3
+tags: []
+user_id: codespace

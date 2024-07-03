@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/b648b47318204c409e77ec5ab8dc396e/artifacts
+end_time: 1719993638294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b648b47318204c409e77ec5ab8dc396e
+run_name: learned-steed-940
+run_uuid: b648b47318204c409e77ec5ab8dc396e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993638275
+status: 3
+tags: []
+user_id: codespace

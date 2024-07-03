@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/0bb6136b0cc247e1bb0e9dc8edabef51/artifacts
+end_time: 1719993218115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0bb6136b0cc247e1bb0e9dc8edabef51
+run_name: painted-goose-325
+run_uuid: 0bb6136b0cc247e1bb0e9dc8edabef51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993218097
+status: 3
+tags: []
+user_id: codespace

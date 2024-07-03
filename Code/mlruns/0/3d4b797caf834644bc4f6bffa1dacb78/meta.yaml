@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/3d4b797caf834644bc4f6bffa1dacb78/artifacts
+end_time: 1719992301665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d4b797caf834644bc4f6bffa1dacb78
+run_name: gifted-hawk-48
+run_uuid: 3d4b797caf834644bc4f6bffa1dacb78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992301552
+status: 3
+tags: []
+user_id: codespace

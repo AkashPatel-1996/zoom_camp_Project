@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/74e005e0315544a9bbcccbb967bd8924/artifacts
+end_time: 1719993304537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74e005e0315544a9bbcccbb967bd8924
+run_name: painted-gnu-465
+run_uuid: 74e005e0315544a9bbcccbb967bd8924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304421
+status: 3
+tags: []
+user_id: codespace

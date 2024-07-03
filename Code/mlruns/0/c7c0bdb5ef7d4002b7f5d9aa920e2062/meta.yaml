@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/c7c0bdb5ef7d4002b7f5d9aa920e2062/artifacts
+end_time: 1719992751819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7c0bdb5ef7d4002b7f5d9aa920e2062
+run_name: glamorous-eel-164
+run_uuid: c7c0bdb5ef7d4002b7f5d9aa920e2062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992751767
+status: 3
+tags: []
+user_id: codespace

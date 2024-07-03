@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/a0965505d7024318a465ea07d20d8efe/artifacts
+end_time: 1719993332524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0965505d7024318a465ea07d20d8efe
+run_name: luxuriant-asp-659
+run_uuid: a0965505d7024318a465ea07d20d8efe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993332456
+status: 3
+tags: []
+user_id: codespace

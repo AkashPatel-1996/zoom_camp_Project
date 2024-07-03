@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/717387f1b14f4dc784eb3798f1a830bf/artifacts
+end_time: 1719992699349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 717387f1b14f4dc784eb3798f1a830bf
+run_name: selective-loon-841
+run_uuid: 717387f1b14f4dc784eb3798f1a830bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992699258
+status: 3
+tags: []
+user_id: codespace

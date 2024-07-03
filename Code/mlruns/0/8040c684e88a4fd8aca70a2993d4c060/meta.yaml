@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/8040c684e88a4fd8aca70a2993d4c060/artifacts
+end_time: 1719992751211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8040c684e88a4fd8aca70a2993d4c060
+run_name: gentle-rat-47
+run_uuid: 8040c684e88a4fd8aca70a2993d4c060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992751101
+status: 3
+tags: []
+user_id: codespace

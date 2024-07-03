@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/0fc8724d78d8494ba7a0c0c87cd1a1e0/artifacts
+end_time: 1719993219062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fc8724d78d8494ba7a0c0c87cd1a1e0
+run_name: treasured-mule-16
+run_uuid: 0fc8724d78d8494ba7a0c0c87cd1a1e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993219045
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/765c3de383db46448289c9499620c900/artifacts
+end_time: 1719993192623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 765c3de383db46448289c9499620c900
+run_name: nervous-mole-365
+run_uuid: 765c3de383db46448289c9499620c900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993192603
+status: 3
+tags: []
+user_id: codespace

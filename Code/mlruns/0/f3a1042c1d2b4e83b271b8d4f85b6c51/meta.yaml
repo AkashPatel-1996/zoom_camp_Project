@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/f3a1042c1d2b4e83b271b8d4f85b6c51/artifacts
+end_time: 1719992301357
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3a1042c1d2b4e83b271b8d4f85b6c51
+run_name: entertaining-owl-354
+run_uuid: f3a1042c1d2b4e83b271b8d4f85b6c51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992301344
+status: 3
+tags: []
+user_id: codespace

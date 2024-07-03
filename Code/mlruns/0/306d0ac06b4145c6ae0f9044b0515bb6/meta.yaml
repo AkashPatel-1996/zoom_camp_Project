@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/306d0ac06b4145c6ae0f9044b0515bb6/artifacts
+end_time: 1719992752412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 306d0ac06b4145c6ae0f9044b0515bb6
+run_name: exultant-kit-492
+run_uuid: 306d0ac06b4145c6ae0f9044b0515bb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992752397
+status: 3
+tags: []
+user_id: codespace

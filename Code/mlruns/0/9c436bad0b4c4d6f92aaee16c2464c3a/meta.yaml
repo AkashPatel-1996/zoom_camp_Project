@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/9c436bad0b4c4d6f92aaee16c2464c3a/artifacts
+end_time: 1719992300606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c436bad0b4c4d6f92aaee16c2464c3a
+run_name: melodic-quail-776
+run_uuid: 9c436bad0b4c4d6f92aaee16c2464c3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300590
+status: 3
+tags: []
+user_id: codespace

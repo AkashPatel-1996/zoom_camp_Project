@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/d4c30d6c6e4643dfbb0201753746b30a/artifacts
+end_time: 1719992752604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4c30d6c6e4643dfbb0201753746b30a
+run_name: glamorous-sow-248
+run_uuid: d4c30d6c6e4643dfbb0201753746b30a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992752589
+status: 3
+tags: []
+user_id: codespace

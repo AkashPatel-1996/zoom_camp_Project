@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/f8872d9d08004c04b7ccfc77cd3ad747/artifacts
+end_time: 1719993639961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8872d9d08004c04b7ccfc77cd3ad747
+run_name: gaudy-rook-511
+run_uuid: f8872d9d08004c04b7ccfc77cd3ad747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993639869
+status: 3
+tags: []
+user_id: codespace

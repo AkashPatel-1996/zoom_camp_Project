@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/59d500c2bf21407d9cadd093375c609f/artifacts
+end_time: 1719992696985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59d500c2bf21407d9cadd093375c609f
+run_name: skittish-jay-376
+run_uuid: 59d500c2bf21407d9cadd093375c609f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992696970
+status: 3
+tags: []
+user_id: codespace

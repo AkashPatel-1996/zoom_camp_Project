@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/6e5cdb1292e14bd8ae9358dda6030da9/artifacts
+end_time: 1719993305241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e5cdb1292e14bd8ae9358dda6030da9
+run_name: likeable-elk-431
+run_uuid: 6e5cdb1292e14bd8ae9358dda6030da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305223
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/178336d01db14c1484662c9db6a07a24/artifacts
+end_time: 1719992699382
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 178336d01db14c1484662c9db6a07a24
+run_name: stylish-goat-366
+run_uuid: 178336d01db14c1484662c9db6a07a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992699361
+status: 3
+tags: []
+user_id: codespace

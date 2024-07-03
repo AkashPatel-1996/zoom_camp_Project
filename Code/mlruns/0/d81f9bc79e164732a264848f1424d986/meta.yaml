@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/d81f9bc79e164732a264848f1424d986/artifacts
+end_time: 1719993304209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d81f9bc79e164732a264848f1424d986
+run_name: dazzling-gull-466
+run_uuid: d81f9bc79e164732a264848f1424d986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304159
+status: 3
+tags: []
+user_id: codespace

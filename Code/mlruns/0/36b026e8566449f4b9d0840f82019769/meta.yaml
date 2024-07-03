@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/36b026e8566449f4b9d0840f82019769/artifacts
+end_time: 1719993219626
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36b026e8566449f4b9d0840f82019769
+run_name: mercurial-sponge-487
+run_uuid: 36b026e8566449f4b9d0840f82019769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993219594
+status: 3
+tags: []
+user_id: codespace

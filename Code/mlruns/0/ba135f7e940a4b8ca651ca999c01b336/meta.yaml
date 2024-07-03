@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ba135f7e940a4b8ca651ca999c01b336/artifacts
+end_time: 1719992750459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba135f7e940a4b8ca651ca999c01b336
+run_name: dazzling-yak-489
+run_uuid: ba135f7e940a4b8ca651ca999c01b336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992750311
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ce93ac484c204294b6077041523f8edf/artifacts
+end_time: 1719993640659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce93ac484c204294b6077041523f8edf
+run_name: enchanting-steed-547
+run_uuid: ce93ac484c204294b6077041523f8edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993640548
+status: 3
+tags: []
+user_id: codespace

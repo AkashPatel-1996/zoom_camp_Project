@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/8e9ff6de6c5b4e99af11e3a886febbe3/artifacts
+end_time: 1719993638192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e9ff6de6c5b4e99af11e3a886febbe3
+run_name: upbeat-ray-206
+run_uuid: 8e9ff6de6c5b4e99af11e3a886febbe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993638114
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/91eb6c5d5a2848f3af11ab99c50207d5/artifacts
+end_time: 1719992300083
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91eb6c5d5a2848f3af11ab99c50207d5
+run_name: thundering-squid-61
+run_uuid: 91eb6c5d5a2848f3af11ab99c50207d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300069
+status: 3
+tags: []
+user_id: codespace

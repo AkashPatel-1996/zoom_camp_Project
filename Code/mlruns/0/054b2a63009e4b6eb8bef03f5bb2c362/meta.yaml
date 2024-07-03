@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/054b2a63009e4b6eb8bef03f5bb2c362/artifacts
+end_time: 1719993219582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 054b2a63009e4b6eb8bef03f5bb2c362
+run_name: nervous-newt-132
+run_uuid: 054b2a63009e4b6eb8bef03f5bb2c362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993219555
+status: 3
+tags: []
+user_id: codespace

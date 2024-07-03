@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/4bf078e6bb1b4b548d52f36531f71b43/artifacts
+end_time: 1719993305298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bf078e6bb1b4b548d52f36531f71b43
+run_name: caring-quail-304
+run_uuid: 4bf078e6bb1b4b548d52f36531f71b43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305273
+status: 3
+tags: []
+user_id: codespace

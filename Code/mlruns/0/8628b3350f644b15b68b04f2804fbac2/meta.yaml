@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/8628b3350f644b15b68b04f2804fbac2/artifacts
+end_time: 1719992698268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8628b3350f644b15b68b04f2804fbac2
+run_name: awesome-skink-260
+run_uuid: 8628b3350f644b15b68b04f2804fbac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698254
+status: 3
+tags: []
+user_id: codespace

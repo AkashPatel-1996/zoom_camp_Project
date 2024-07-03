@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/479a7889b9af409e82873008b0674943/artifacts
+end_time: 1719993304680
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 479a7889b9af409e82873008b0674943
+run_name: hilarious-lamb-263
+run_uuid: 479a7889b9af409e82873008b0674943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304655
+status: 3
+tags: []
+user_id: codespace

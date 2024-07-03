@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/e402d97c94b2441c92eccc34945d04bd/artifacts
+end_time: 1719992751528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e402d97c94b2441c92eccc34945d04bd
+run_name: unleashed-deer-359
+run_uuid: e402d97c94b2441c92eccc34945d04bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992751456
+status: 3
+tags: []
+user_id: codespace

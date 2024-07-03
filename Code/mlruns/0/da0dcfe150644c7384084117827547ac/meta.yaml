@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/da0dcfe150644c7384084117827547ac/artifacts
+end_time: 1719992698408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da0dcfe150644c7384084117827547ac
+run_name: thundering-chimp-446
+run_uuid: da0dcfe150644c7384084117827547ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698387
+status: 3
+tags: []
+user_id: codespace

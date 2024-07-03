@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/36a8533a69934b34ba9a23131a983858/artifacts
+end_time: 1719993305266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36a8533a69934b34ba9a23131a983858
+run_name: rogue-ox-689
+run_uuid: 36a8533a69934b34ba9a23131a983858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305248
+status: 3
+tags: []
+user_id: codespace

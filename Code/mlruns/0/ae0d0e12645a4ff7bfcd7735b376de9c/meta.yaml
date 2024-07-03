@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ae0d0e12645a4ff7bfcd7735b376de9c/artifacts
+end_time: 1719992697788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae0d0e12645a4ff7bfcd7735b376de9c
+run_name: serious-mare-159
+run_uuid: ae0d0e12645a4ff7bfcd7735b376de9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992697774
+status: 3
+tags: []
+user_id: codespace

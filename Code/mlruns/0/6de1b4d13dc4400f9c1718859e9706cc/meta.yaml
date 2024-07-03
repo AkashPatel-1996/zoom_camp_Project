@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/6de1b4d13dc4400f9c1718859e9706cc/artifacts
+end_time: 1719993191313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6de1b4d13dc4400f9c1718859e9706cc
+run_name: spiffy-seal-562
+run_uuid: 6de1b4d13dc4400f9c1718859e9706cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993191297
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/9555ba5fbff149bcbf77d355908dfa87/artifacts
+end_time: 1719993192191
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9555ba5fbff149bcbf77d355908dfa87
+run_name: unruly-fowl-789
+run_uuid: 9555ba5fbff149bcbf77d355908dfa87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993192173
+status: 3
+tags: []
+user_id: codespace

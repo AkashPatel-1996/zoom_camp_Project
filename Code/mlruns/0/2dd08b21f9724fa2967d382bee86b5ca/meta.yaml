@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/2dd08b21f9724fa2967d382bee86b5ca/artifacts
+end_time: 1719993305374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2dd08b21f9724fa2967d382bee86b5ca
+run_name: skillful-hound-476
+run_uuid: 2dd08b21f9724fa2967d382bee86b5ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305357
+status: 3
+tags: []
+user_id: codespace

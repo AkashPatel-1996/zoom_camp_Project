@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/1ea2f4665809401da4b18c4cf1a99a43/artifacts
+end_time: 1719993219292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ea2f4665809401da4b18c4cf1a99a43
+run_name: aged-roo-676
+run_uuid: 1ea2f4665809401da4b18c4cf1a99a43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993219184
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/d4d54863b51644fd8344b72439f920c4/artifacts
+end_time: 1719993330807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4d54863b51644fd8344b72439f920c4
+run_name: nosy-shrimp-929
+run_uuid: d4d54863b51644fd8344b72439f920c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993330790
+status: 3
+tags: []
+user_id: codespace

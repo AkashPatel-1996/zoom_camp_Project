@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/e1eda8a0fc5b41b1a8741ed7aa00c795/artifacts
+end_time: 1719992300735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1eda8a0fc5b41b1a8741ed7aa00c795
+run_name: flawless-carp-715
+run_uuid: e1eda8a0fc5b41b1a8741ed7aa00c795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300721
+status: 3
+tags: []
+user_id: codespace

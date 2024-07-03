@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/427908abc7e4402c97b1b5c7ce2d8120/artifacts
+end_time: 1719993220081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 427908abc7e4402c97b1b5c7ce2d8120
+run_name: respected-skunk-803
+run_uuid: 427908abc7e4402c97b1b5c7ce2d8120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993219865
+status: 3
+tags: []
+user_id: codespace

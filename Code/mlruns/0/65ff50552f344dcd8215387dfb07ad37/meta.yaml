@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/65ff50552f344dcd8215387dfb07ad37/artifacts
+end_time: 1719993305483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65ff50552f344dcd8215387dfb07ad37
+run_name: enchanting-sheep-248
+run_uuid: 65ff50552f344dcd8215387dfb07ad37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305406
+status: 3
+tags: []
+user_id: codespace

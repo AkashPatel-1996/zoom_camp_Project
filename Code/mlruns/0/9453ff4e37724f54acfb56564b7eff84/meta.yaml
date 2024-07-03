@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/9453ff4e37724f54acfb56564b7eff84/artifacts
+end_time: 1719992698819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9453ff4e37724f54acfb56564b7eff84
+run_name: handsome-moose-563
+run_uuid: 9453ff4e37724f54acfb56564b7eff84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698804
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/a0f16d3c81ae454e85e6fe1baae0c2a5/artifacts
+end_time: 1719992750487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0f16d3c81ae454e85e6fe1baae0c2a5
+run_name: delightful-doe-681
+run_uuid: a0f16d3c81ae454e85e6fe1baae0c2a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992750467
+status: 3
+tags: []
+user_id: codespace

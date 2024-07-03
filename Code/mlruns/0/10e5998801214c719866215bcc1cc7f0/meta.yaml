@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/10e5998801214c719866215bcc1cc7f0/artifacts
+end_time: 1719993220123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10e5998801214c719866215bcc1cc7f0
+run_name: treasured-stork-288
+run_uuid: 10e5998801214c719866215bcc1cc7f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993220093
+status: 3
+tags: []
+user_id: codespace

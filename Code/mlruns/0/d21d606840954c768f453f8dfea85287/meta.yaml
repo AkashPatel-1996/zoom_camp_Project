@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/d21d606840954c768f453f8dfea85287/artifacts
+end_time: 1719992752757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d21d606840954c768f453f8dfea85287
+run_name: rebellious-dove-538
+run_uuid: d21d606840954c768f453f8dfea85287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992752610
+status: 3
+tags: []
+user_id: codespace

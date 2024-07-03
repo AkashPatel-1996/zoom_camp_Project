@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/09e514c0e8904479944d1d20e4f5c650/artifacts
+end_time: 1719993637981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09e514c0e8904479944d1d20e4f5c650
+run_name: peaceful-asp-658
+run_uuid: 09e514c0e8904479944d1d20e4f5c650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993637962
+status: 3
+tags: []
+user_id: codespace

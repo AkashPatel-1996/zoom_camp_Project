@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/22750b8edd094c8e81b6f26258cb873a/artifacts
+end_time: 1719993191291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22750b8edd094c8e81b6f26258cb873a
+run_name: legendary-shad-686
+run_uuid: 22750b8edd094c8e81b6f26258cb873a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993191250
+status: 3
+tags: []
+user_id: codespace

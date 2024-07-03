@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/4a58cb2258db4dc8b0ec6f502c0b28ed/artifacts
+end_time: 1719993219367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a58cb2258db4dc8b0ec6f502c0b28ed
+run_name: salty-shoat-179
+run_uuid: 4a58cb2258db4dc8b0ec6f502c0b28ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993219346
+status: 3
+tags: []
+user_id: codespace

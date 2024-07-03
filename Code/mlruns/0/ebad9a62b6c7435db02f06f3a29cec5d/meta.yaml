@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ebad9a62b6c7435db02f06f3a29cec5d/artifacts
+end_time: 1719993219339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebad9a62b6c7435db02f06f3a29cec5d
+run_name: placid-fish-475
+run_uuid: ebad9a62b6c7435db02f06f3a29cec5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993219322
+status: 3
+tags: []
+user_id: codespace

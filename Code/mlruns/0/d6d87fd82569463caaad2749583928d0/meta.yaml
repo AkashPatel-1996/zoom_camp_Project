@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/d6d87fd82569463caaad2749583928d0/artifacts
+end_time: 1719993330384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6d87fd82569463caaad2749583928d0
+run_name: intelligent-fly-375
+run_uuid: d6d87fd82569463caaad2749583928d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993330264
+status: 3
+tags: []
+user_id: codespace

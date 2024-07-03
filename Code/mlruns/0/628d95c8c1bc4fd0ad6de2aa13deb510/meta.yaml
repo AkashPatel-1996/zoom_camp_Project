@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/628d95c8c1bc4fd0ad6de2aa13deb510/artifacts
+end_time: 1719993191004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 628d95c8c1bc4fd0ad6de2aa13deb510
+run_name: judicious-sloth-366
+run_uuid: 628d95c8c1bc4fd0ad6de2aa13deb510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993190988
+status: 3
+tags: []
+user_id: codespace

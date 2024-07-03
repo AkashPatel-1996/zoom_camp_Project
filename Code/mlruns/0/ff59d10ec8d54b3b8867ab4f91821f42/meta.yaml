@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ff59d10ec8d54b3b8867ab4f91821f42/artifacts
+end_time: 1719993191451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff59d10ec8d54b3b8867ab4f91821f42
+run_name: welcoming-stork-607
+run_uuid: ff59d10ec8d54b3b8867ab4f91821f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993191434
+status: 3
+tags: []
+user_id: codespace

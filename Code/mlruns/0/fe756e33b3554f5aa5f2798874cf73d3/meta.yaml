@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/fe756e33b3554f5aa5f2798874cf73d3/artifacts
+end_time: 1719992697304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe756e33b3554f5aa5f2798874cf73d3
+run_name: enchanting-snail-156
+run_uuid: fe756e33b3554f5aa5f2798874cf73d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992697171
+status: 3
+tags: []
+user_id: codespace

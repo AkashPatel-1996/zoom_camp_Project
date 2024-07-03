@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/764a8e2320c14751a275e76ab4bfe56b/artifacts
+end_time: 1719992698524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 764a8e2320c14751a275e76ab4bfe56b
+run_name: spiffy-crane-150
+run_uuid: 764a8e2320c14751a275e76ab4bfe56b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698505
+status: 3
+tags: []
+user_id: codespace

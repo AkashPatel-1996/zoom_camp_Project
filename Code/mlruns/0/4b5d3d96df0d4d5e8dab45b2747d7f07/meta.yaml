@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/4b5d3d96df0d4d5e8dab45b2747d7f07/artifacts
+end_time: 1719993305061
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b5d3d96df0d4d5e8dab45b2747d7f07
+run_name: crawling-bee-595
+run_uuid: 4b5d3d96df0d4d5e8dab45b2747d7f07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305043
+status: 3
+tags: []
+user_id: codespace

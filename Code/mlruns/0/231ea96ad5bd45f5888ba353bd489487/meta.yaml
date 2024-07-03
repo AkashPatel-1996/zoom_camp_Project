@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/231ea96ad5bd45f5888ba353bd489487/artifacts
+end_time: 1719992698380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 231ea96ad5bd45f5888ba353bd489487
+run_name: unruly-owl-402
+run_uuid: 231ea96ad5bd45f5888ba353bd489487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698295
+status: 3
+tags: []
+user_id: codespace

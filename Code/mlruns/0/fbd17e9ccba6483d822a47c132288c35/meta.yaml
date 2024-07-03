@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/fbd17e9ccba6483d822a47c132288c35/artifacts
+end_time: 1719993637285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbd17e9ccba6483d822a47c132288c35
+run_name: spiffy-hare-435
+run_uuid: fbd17e9ccba6483d822a47c132288c35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993637249
+status: 3
+tags: []
+user_id: codespace

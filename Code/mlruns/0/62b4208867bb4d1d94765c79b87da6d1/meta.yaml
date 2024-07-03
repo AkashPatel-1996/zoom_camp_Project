@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/62b4208867bb4d1d94765c79b87da6d1/artifacts
+end_time: 1719992299508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62b4208867bb4d1d94765c79b87da6d1
+run_name: big-fly-763
+run_uuid: 62b4208867bb4d1d94765c79b87da6d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992299392
+status: 3
+tags: []
+user_id: codespace

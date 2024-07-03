@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/2be9439191214084ae54d8b844b5e791/artifacts
+end_time: 1719992751750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2be9439191214084ae54d8b844b5e791
+run_name: industrious-foal-581
+run_uuid: 2be9439191214084ae54d8b844b5e791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992751615
+status: 3
+tags: []
+user_id: codespace

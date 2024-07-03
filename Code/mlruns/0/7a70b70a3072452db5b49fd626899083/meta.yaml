@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/7a70b70a3072452db5b49fd626899083/artifacts
+end_time: 1719992300046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a70b70a3072452db5b49fd626899083
+run_name: charming-trout-104
+run_uuid: 7a70b70a3072452db5b49fd626899083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992299966
+status: 3
+tags: []
+user_id: codespace

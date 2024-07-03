@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/a0a4138fcb8542b4bb41088941182d0c/artifacts
+end_time: 1719992699252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0a4138fcb8542b4bb41088941182d0c
+run_name: gregarious-slug-491
+run_uuid: a0a4138fcb8542b4bb41088941182d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992699237
+status: 3
+tags: []
+user_id: codespace

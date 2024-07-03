@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/89c328cba32e4d968a0838b17ab4b17b/artifacts
+end_time: 1719993218372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89c328cba32e4d968a0838b17ab4b17b
+run_name: fearless-shark-567
+run_uuid: 89c328cba32e4d968a0838b17ab4b17b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993218356
+status: 3
+tags: []
+user_id: codespace

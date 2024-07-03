@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/edfc2a5b551c4978ab13757a94f4c62d/artifacts
+end_time: 1719992301377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edfc2a5b551c4978ab13757a94f4c62d
+run_name: auspicious-ox-431
+run_uuid: edfc2a5b551c4978ab13757a94f4c62d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992301363
+status: 3
+tags: []
+user_id: codespace

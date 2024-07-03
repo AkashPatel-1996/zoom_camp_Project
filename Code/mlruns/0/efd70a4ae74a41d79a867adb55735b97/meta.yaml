@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/efd70a4ae74a41d79a867adb55735b97/artifacts
+end_time: 1719993304394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efd70a4ae74a41d79a867adb55735b97
+run_name: victorious-kit-885
+run_uuid: efd70a4ae74a41d79a867adb55735b97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304341
+status: 3
+tags: []
+user_id: codespace

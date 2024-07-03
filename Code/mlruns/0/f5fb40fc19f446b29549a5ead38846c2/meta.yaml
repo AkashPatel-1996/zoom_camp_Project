@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/f5fb40fc19f446b29549a5ead38846c2/artifacts
+end_time: 1719993219154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5fb40fc19f446b29549a5ead38846c2
+run_name: receptive-jay-543
+run_uuid: f5fb40fc19f446b29549a5ead38846c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993219133
+status: 3
+tags: []
+user_id: codespace

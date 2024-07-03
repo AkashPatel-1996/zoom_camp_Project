@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/3ae2b2b2212e409383b44efd0a1bdc85/artifacts
+end_time: 1719992299943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ae2b2b2212e409383b44efd0a1bdc85
+run_name: shivering-pig-921
+run_uuid: 3ae2b2b2212e409383b44efd0a1bdc85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992299902
+status: 3
+tags: []
+user_id: codespace

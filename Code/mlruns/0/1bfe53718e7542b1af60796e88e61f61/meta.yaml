@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/1bfe53718e7542b1af60796e88e61f61/artifacts
+end_time: 1719992300952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bfe53718e7542b1af60796e88e61f61
+run_name: serious-jay-216
+run_uuid: 1bfe53718e7542b1af60796e88e61f61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300889
+status: 3
+tags: []
+user_id: codespace

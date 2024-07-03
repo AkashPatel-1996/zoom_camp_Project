@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/e077d86d5b434d289da0e123d9c97c57/artifacts
+end_time: 1719993192317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e077d86d5b434d289da0e123d9c97c57
+run_name: adventurous-lynx-912
+run_uuid: e077d86d5b434d289da0e123d9c97c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993192197
+status: 3
+tags: []
+user_id: codespace

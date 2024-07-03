@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/e0873778f99c4dfdb084e9cdd308ff4a/artifacts
+end_time: 1719993218498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0873778f99c4dfdb084e9cdd308ff4a
+run_name: hilarious-snake-24
+run_uuid: e0873778f99c4dfdb084e9cdd308ff4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993218398
+status: 3
+tags: []
+user_id: codespace

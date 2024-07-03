@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/da34f0d0f0bc499685bcb8fc63a9b86f/artifacts
+end_time: 1719992698843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da34f0d0f0bc499685bcb8fc63a9b86f
+run_name: rumbling-rook-545
+run_uuid: da34f0d0f0bc499685bcb8fc63a9b86f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698825
+status: 3
+tags: []
+user_id: codespace

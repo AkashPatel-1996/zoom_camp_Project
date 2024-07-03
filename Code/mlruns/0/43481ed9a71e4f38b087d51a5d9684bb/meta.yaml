@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/43481ed9a71e4f38b087d51a5d9684bb/artifacts
+end_time: 1719993190772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43481ed9a71e4f38b087d51a5d9684bb
+run_name: whimsical-fox-836
+run_uuid: 43481ed9a71e4f38b087d51a5d9684bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993190716
+status: 3
+tags: []
+user_id: codespace

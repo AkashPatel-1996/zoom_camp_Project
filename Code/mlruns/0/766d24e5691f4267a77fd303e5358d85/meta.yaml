@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/766d24e5691f4267a77fd303e5358d85/artifacts
+end_time: 1719992750924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 766d24e5691f4267a77fd303e5358d85
+run_name: fun-seal-840
+run_uuid: 766d24e5691f4267a77fd303e5358d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992750856
+status: 3
+tags: []
+user_id: codespace

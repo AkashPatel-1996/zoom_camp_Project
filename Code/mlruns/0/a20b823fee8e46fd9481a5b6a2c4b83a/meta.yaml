@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/a20b823fee8e46fd9481a5b6a2c4b83a/artifacts
+end_time: 1719992698438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a20b823fee8e46fd9481a5b6a2c4b83a
+run_name: orderly-lynx-347
+run_uuid: a20b823fee8e46fd9481a5b6a2c4b83a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698418
+status: 3
+tags: []
+user_id: codespace

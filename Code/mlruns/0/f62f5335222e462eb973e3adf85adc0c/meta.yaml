@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/f62f5335222e462eb973e3adf85adc0c/artifacts
+end_time: 1719993304920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f62f5335222e462eb973e3adf85adc0c
+run_name: fearless-wasp-63
+run_uuid: f62f5335222e462eb973e3adf85adc0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304903
+status: 3
+tags: []
+user_id: codespace

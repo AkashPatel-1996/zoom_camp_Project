@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/2c5e31cbcf234d00a0cb698b8b94a09e/artifacts
+end_time: 1719993189970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c5e31cbcf234d00a0cb698b8b94a09e
+run_name: trusting-bug-74
+run_uuid: 2c5e31cbcf234d00a0cb698b8b94a09e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993189857
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/333462dc8c534c26ac52b34486c74646/artifacts
+end_time: 1719993305188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 333462dc8c534c26ac52b34486c74646
+run_name: defiant-carp-945
+run_uuid: 333462dc8c534c26ac52b34486c74646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305170
+status: 3
+tags: []
+user_id: codespace

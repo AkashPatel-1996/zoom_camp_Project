@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/8a81ef2ed13c420fb9c4f2de2a394fdd/artifacts
+end_time: 1719993304872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a81ef2ed13c420fb9c4f2de2a394fdd
+run_name: bemused-stag-897
+run_uuid: 8a81ef2ed13c420fb9c4f2de2a394fdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304855
+status: 3
+tags: []
+user_id: codespace

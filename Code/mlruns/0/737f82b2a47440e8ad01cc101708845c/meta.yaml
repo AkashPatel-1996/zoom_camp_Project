@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/737f82b2a47440e8ad01cc101708845c/artifacts
+end_time: 1719993330930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 737f82b2a47440e8ad01cc101708845c
+run_name: vaunted-newt-458
+run_uuid: 737f82b2a47440e8ad01cc101708845c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993330812
+status: 3
+tags: []
+user_id: codespace

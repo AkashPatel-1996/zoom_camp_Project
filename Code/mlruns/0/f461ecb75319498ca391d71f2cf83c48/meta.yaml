@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/f461ecb75319498ca391d71f2cf83c48/artifacts
+end_time: 1719992697164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f461ecb75319498ca391d71f2cf83c48
+run_name: smiling-duck-400
+run_uuid: f461ecb75319498ca391d71f2cf83c48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992697143
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/12ac11014fa740ad83a860d5c7c1b087/artifacts
+end_time: 1719993637358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12ac11014fa740ad83a860d5c7c1b087
+run_name: rare-fawn-391
+run_uuid: 12ac11014fa740ad83a860d5c7c1b087
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993637338
+status: 3
+tags: []
+user_id: codespace

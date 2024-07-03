@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/6d0bfde6653d49b1920114c9e840364d/artifacts
+end_time: 1719992750773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d0bfde6653d49b1920114c9e840364d
+run_name: clumsy-lark-345
+run_uuid: 6d0bfde6653d49b1920114c9e840364d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992750650
+status: 3
+tags: []
+user_id: codespace

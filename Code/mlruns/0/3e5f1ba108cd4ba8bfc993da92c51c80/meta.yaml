@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/3e5f1ba108cd4ba8bfc993da92c51c80/artifacts
+end_time: 1719993638109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e5f1ba108cd4ba8bfc993da92c51c80
+run_name: amusing-horse-920
+run_uuid: 3e5f1ba108cd4ba8bfc993da92c51c80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993638046
+status: 3
+tags: []
+user_id: codespace

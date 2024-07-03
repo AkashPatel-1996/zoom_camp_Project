@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/204b4e6562d14331942de6540358a1e4/artifacts
+end_time: 1719992698667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 204b4e6562d14331942de6540358a1e4
+run_name: skillful-swan-499
+run_uuid: 204b4e6562d14331942de6540358a1e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698652
+status: 3
+tags: []
+user_id: codespace

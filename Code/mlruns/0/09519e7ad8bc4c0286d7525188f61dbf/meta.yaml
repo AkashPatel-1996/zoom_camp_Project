@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/09519e7ad8bc4c0286d7525188f61dbf/artifacts
+end_time: 1719992698474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09519e7ad8bc4c0286d7525188f61dbf
+run_name: righteous-flea-752
+run_uuid: 09519e7ad8bc4c0286d7525188f61dbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698453
+status: 3
+tags: []
+user_id: codespace

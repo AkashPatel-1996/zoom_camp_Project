@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/146171e768ad4a1c82bf2c5265440cf4/artifacts
+end_time: 1719993330259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 146171e768ad4a1c82bf2c5265440cf4
+run_name: nimble-rook-340
+run_uuid: 146171e768ad4a1c82bf2c5265440cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993330199
+status: 3
+tags: []
+user_id: codespace

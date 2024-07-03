@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/d5088b9b4be94eb5a7af22707cf6d98a/artifacts
+end_time: 1719992300523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5088b9b4be94eb5a7af22707cf6d98a
+run_name: nervous-turtle-106
+run_uuid: d5088b9b4be94eb5a7af22707cf6d98a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300510
+status: 3
+tags: []
+user_id: codespace

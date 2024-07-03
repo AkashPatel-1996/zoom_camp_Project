@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/6f72969e779b4692a8f22093a3b9debf/artifacts
+end_time: 1719992299801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f72969e779b4692a8f22093a3b9debf
+run_name: bold-goat-269
+run_uuid: 6f72969e779b4692a8f22093a3b9debf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992299786
+status: 3
+tags: []
+user_id: codespace

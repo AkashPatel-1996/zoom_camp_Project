@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/344270dde3584b87a97776fb1e597440/artifacts
+end_time: 1719993192499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 344270dde3584b87a97776fb1e597440
+run_name: judicious-ape-129
+run_uuid: 344270dde3584b87a97776fb1e597440
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993192409
+status: 3
+tags: []
+user_id: codespace

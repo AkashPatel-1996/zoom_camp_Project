@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/c9c62f24cbda48bfbe9d449da1d71ad4/artifacts
+end_time: 1719992751319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9c62f24cbda48bfbe9d449da1d71ad4
+run_name: amazing-owl-276
+run_uuid: c9c62f24cbda48bfbe9d449da1d71ad4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992751220
+status: 3
+tags: []
+user_id: codespace

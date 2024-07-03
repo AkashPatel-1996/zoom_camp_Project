@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/8281042853a446e3982208569146d9d2/artifacts
+end_time: 1719993305109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8281042853a446e3982208569146d9d2
+run_name: polite-gnu-680
+run_uuid: 8281042853a446e3982208569146d9d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305091
+status: 3
+tags: []
+user_id: codespace

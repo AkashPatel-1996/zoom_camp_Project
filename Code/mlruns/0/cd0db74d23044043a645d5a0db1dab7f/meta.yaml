@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/cd0db74d23044043a645d5a0db1dab7f/artifacts
+end_time: 1719992300654
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd0db74d23044043a645d5a0db1dab7f
+run_name: amusing-shrike-24
+run_uuid: cd0db74d23044043a645d5a0db1dab7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300639
+status: 3
+tags: []
+user_id: codespace

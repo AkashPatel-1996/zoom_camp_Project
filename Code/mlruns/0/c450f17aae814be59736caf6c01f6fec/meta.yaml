@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/c450f17aae814be59736caf6c01f6fec/artifacts
+end_time: 1719992699203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c450f17aae814be59736caf6c01f6fec
+run_name: righteous-dove-578
+run_uuid: c450f17aae814be59736caf6c01f6fec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992699085
+status: 3
+tags: []
+user_id: codespace

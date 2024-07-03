@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/bbb76d92e06449bebec241a3959eb60e/artifacts
+end_time: 1719993332791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbb76d92e06449bebec241a3959eb60e
+run_name: secretive-wasp-755
+run_uuid: bbb76d92e06449bebec241a3959eb60e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993332679
+status: 3
+tags: []
+user_id: codespace

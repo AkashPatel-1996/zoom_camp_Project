@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/b909360be9a644f48277af60f37f5737/artifacts
+end_time: 1719993637700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b909360be9a644f48277af60f37f5737
+run_name: languid-fowl-813
+run_uuid: b909360be9a644f48277af60f37f5737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993637601
+status: 3
+tags: []
+user_id: codespace

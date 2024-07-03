@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/547fc143db704fd29547e2f9a2212291/artifacts
+end_time: 1719993304293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 547fc143db704fd29547e2f9a2212291
+run_name: bald-skink-277
+run_uuid: 547fc143db704fd29547e2f9a2212291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304214
+status: 3
+tags: []
+user_id: codespace

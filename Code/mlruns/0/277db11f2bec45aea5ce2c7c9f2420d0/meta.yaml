@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/277db11f2bec45aea5ce2c7c9f2420d0/artifacts
+end_time: 1719992301317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 277db11f2bec45aea5ce2c7c9f2420d0
+run_name: handsome-crane-81
+run_uuid: 277db11f2bec45aea5ce2c7c9f2420d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992301303
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/7d615c65f173463d86a22b79626a236a/artifacts
+end_time: 1719992698158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d615c65f173463d86a22b79626a236a
+run_name: unique-smelt-461
+run_uuid: 7d615c65f173463d86a22b79626a236a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698142
+status: 3
+tags: []
+user_id: codespace

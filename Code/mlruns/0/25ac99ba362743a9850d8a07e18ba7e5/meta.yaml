@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/25ac99ba362743a9850d8a07e18ba7e5/artifacts
+end_time: 1719993639700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25ac99ba362743a9850d8a07e18ba7e5
+run_name: redolent-lynx-614
+run_uuid: 25ac99ba362743a9850d8a07e18ba7e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993639603
+status: 3
+tags: []
+user_id: codespace

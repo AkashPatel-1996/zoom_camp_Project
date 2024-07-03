@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/bb51fc43a9eb4c3cb20f02e37231692e/artifacts
+end_time: 1719993638270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb51fc43a9eb4c3cb20f02e37231692e
+run_name: funny-mink-984
+run_uuid: bb51fc43a9eb4c3cb20f02e37231692e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993638197
+status: 3
+tags: []
+user_id: codespace

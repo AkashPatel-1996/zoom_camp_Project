@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/23b6c719d7cb4bb8b05772be023a1c29/artifacts
+end_time: 1719993304798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23b6c719d7cb4bb8b05772be023a1c29
+run_name: kindly-newt-508
+run_uuid: 23b6c719d7cb4bb8b05772be023a1c29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304779
+status: 3
+tags: []
+user_id: codespace

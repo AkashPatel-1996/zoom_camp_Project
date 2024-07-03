@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/972b5c64b8da466cb9b376f1e035536d/artifacts
+end_time: 1719992697905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 972b5c64b8da466cb9b376f1e035536d
+run_name: beautiful-cub-241
+run_uuid: 972b5c64b8da466cb9b376f1e035536d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992697810
+status: 3
+tags: []
+user_id: codespace

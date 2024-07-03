@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/9a51de7845094c448a5406c17b96015a/artifacts
+end_time: 1719992698957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a51de7845094c448a5406c17b96015a
+run_name: suave-hen-561
+run_uuid: 9a51de7845094c448a5406c17b96015a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698851
+status: 3
+tags: []
+user_id: codespace

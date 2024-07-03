@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/c186947b9d814d0aa2a7a703f165e517/artifacts
+end_time: 1719993304705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c186947b9d814d0aa2a7a703f165e517
+run_name: likeable-shoat-569
+run_uuid: c186947b9d814d0aa2a7a703f165e517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304684
+status: 3
+tags: []
+user_id: codespace

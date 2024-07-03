@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/75dad228e8844e49820e39b562b39e6f/artifacts
+end_time: 1719992752551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75dad228e8844e49820e39b562b39e6f
+run_name: dapper-newt-196
+run_uuid: 75dad228e8844e49820e39b562b39e6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992752421
+status: 3
+tags: []
+user_id: codespace

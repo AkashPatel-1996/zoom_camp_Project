@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/fbd0d0ad57524b65b86688680052d292/artifacts
+end_time: 1719992750999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fbd0d0ad57524b65b86688680052d292
+run_name: traveling-dog-33
+run_uuid: fbd0d0ad57524b65b86688680052d292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992750931
+status: 3
+tags: []
+user_id: codespace

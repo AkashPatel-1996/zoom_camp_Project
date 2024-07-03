@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/d630d0eded6843da921ea6fc24f20f1f/artifacts
+end_time: 1719993192164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d630d0eded6843da921ea6fc24f20f1f
+run_name: spiffy-bee-664
+run_uuid: d630d0eded6843da921ea6fc24f20f1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993192093
+status: 3
+tags: []
+user_id: codespace

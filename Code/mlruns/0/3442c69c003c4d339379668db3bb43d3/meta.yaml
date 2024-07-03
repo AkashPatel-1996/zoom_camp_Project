@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/3442c69c003c4d339379668db3bb43d3/artifacts
+end_time: 1719992697548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3442c69c003c4d339379668db3bb43d3
+run_name: delicate-worm-972
+run_uuid: 3442c69c003c4d339379668db3bb43d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992697448
+status: 3
+tags: []
+user_id: codespace

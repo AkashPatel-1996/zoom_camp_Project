@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/16fc80c3704f4778a5d6cd06c7904d62/artifacts
+end_time: 1719993191405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16fc80c3704f4778a5d6cd06c7904d62
+run_name: enthused-deer-602
+run_uuid: 16fc80c3704f4778a5d6cd06c7904d62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993191389
+status: 3
+tags: []
+user_id: codespace

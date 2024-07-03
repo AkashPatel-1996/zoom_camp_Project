@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/5c87dc2f2cd24ff2a1f0e82aa9221223/artifacts
+end_time: 1719993305899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c87dc2f2cd24ff2a1f0e82aa9221223
+run_name: awesome-gull-866
+run_uuid: 5c87dc2f2cd24ff2a1f0e82aa9221223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305812
+status: 3
+tags: []
+user_id: codespace

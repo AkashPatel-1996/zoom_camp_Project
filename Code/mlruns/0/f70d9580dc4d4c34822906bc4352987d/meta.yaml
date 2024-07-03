@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/f70d9580dc4d4c34822906bc4352987d/artifacts
+end_time: 1719992301546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f70d9580dc4d4c34822906bc4352987d
+run_name: traveling-asp-795
+run_uuid: f70d9580dc4d4c34822906bc4352987d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992301523
+status: 3
+tags: []
+user_id: codespace

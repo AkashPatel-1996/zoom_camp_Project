@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/70896da7ac2044d9bd09289f08f0dbee/artifacts
+end_time: 1719992753033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70896da7ac2044d9bd09289f08f0dbee
+run_name: thoughtful-worm-26
+run_uuid: 70896da7ac2044d9bd09289f08f0dbee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992752976
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/a3afa02aa2694a2ba829dceda2d58ac2/artifacts
+end_time: 1719992698289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3afa02aa2694a2ba829dceda2d58ac2
+run_name: amusing-tern-238
+run_uuid: a3afa02aa2694a2ba829dceda2d58ac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698274
+status: 3
+tags: []
+user_id: codespace

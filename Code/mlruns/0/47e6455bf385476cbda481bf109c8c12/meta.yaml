@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/47e6455bf385476cbda481bf109c8c12/artifacts
+end_time: 1719993639596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47e6455bf385476cbda481bf109c8c12
+run_name: rare-duck-12
+run_uuid: 47e6455bf385476cbda481bf109c8c12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993639548
+status: 3
+tags: []
+user_id: codespace

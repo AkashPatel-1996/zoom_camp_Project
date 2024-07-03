@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/694efa081a3642db9f39768d9985ccf3/artifacts
+end_time: 1719993190624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 694efa081a3642db9f39768d9985ccf3
+run_name: masked-doe-869
+run_uuid: 694efa081a3642db9f39768d9985ccf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993190531
+status: 3
+tags: []
+user_id: codespace

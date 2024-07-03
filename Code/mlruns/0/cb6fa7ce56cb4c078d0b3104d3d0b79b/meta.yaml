@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/cb6fa7ce56cb4c078d0b3104d3d0b79b/artifacts
+end_time: 1719992696947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb6fa7ce56cb4c078d0b3104d3d0b79b
+run_name: resilient-duck-103
+run_uuid: cb6fa7ce56cb4c078d0b3104d3d0b79b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992696850
+status: 3
+tags: []
+user_id: codespace

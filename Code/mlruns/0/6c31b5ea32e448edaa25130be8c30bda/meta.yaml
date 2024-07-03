@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/6c31b5ea32e448edaa25130be8c30bda/artifacts
+end_time: 1719992697637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c31b5ea32e448edaa25130be8c30bda
+run_name: rumbling-goat-699
+run_uuid: 6c31b5ea32e448edaa25130be8c30bda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992697571
+status: 3
+tags: []
+user_id: codespace

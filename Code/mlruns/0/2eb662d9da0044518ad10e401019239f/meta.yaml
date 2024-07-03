@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/2eb662d9da0044518ad10e401019239f/artifacts
+end_time: 1719993304775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2eb662d9da0044518ad10e401019239f
+run_name: vaunted-gull-598
+run_uuid: 2eb662d9da0044518ad10e401019239f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304715
+status: 3
+tags: []
+user_id: codespace

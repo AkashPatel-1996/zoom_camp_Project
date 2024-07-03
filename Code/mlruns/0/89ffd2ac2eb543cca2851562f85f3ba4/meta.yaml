@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/89ffd2ac2eb543cca2851562f85f3ba4/artifacts
+end_time: 1719992696966
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89ffd2ac2eb543cca2851562f85f3ba4
+run_name: receptive-shrew-138
+run_uuid: 89ffd2ac2eb543cca2851562f85f3ba4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992696952
+status: 3
+tags: []
+user_id: codespace

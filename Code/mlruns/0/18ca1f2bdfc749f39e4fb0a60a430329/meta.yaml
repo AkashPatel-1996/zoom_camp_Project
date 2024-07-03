@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/18ca1f2bdfc749f39e4fb0a60a430329/artifacts
+end_time: 1719993304417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18ca1f2bdfc749f39e4fb0a60a430329
+run_name: nosy-quail-696
+run_uuid: 18ca1f2bdfc749f39e4fb0a60a430329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304398
+status: 3
+tags: []
+user_id: codespace

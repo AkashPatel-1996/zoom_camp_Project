@@ -3,9 +3,13 @@ import xgboost as xgb
 from xgboost import XGBClassifier
 from hyperopt import hp, fmin, tpe, STATUS_OK, Trials
 import mlflow
+from sklearn.linear_model import LogisticRegression
+from functools import partial
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn.model_selection import train_test_split
 
 
-def objective(params):
+def objective(params,X,Y):
     with mlflow.start_run():
         mlflow.log_params(params)
         model = LogisticRegression(
@@ -15,6 +19,7 @@ def objective(params):
             solver=params['solver'],
             random_state=42
         )
+        X_train, X_test, Y_train, Y_test = train_test_split(X , Y, random_state = 412 , test_size=0.5)
         
         model.fit(X_train, Y_train)
         Y_pred = model.predict(X_test)
@@ -24,12 +29,13 @@ def objective(params):
         return {'loss': 1 - accuracy, 'status': STATUS_OK}
 
 
-def parameters(space):
+def parameters(space,X,Y):
 
     trials = Trials()
+    objective_with_data = partial(objective, X=X, Y=Y)
 
     best_params = fmin(
-        fn=objective,
+        fn=objective_with_data,
         space=space,
         algo=tpe.suggest,
         max_evals=50,
@@ -37,13 +43,6 @@ def parameters(space):
     )
     return best_params
 
-def train(X,Y,params):
-    best_model = LogisticRegression(
-    C=111111,
-    penalty=['l1', 'l2'][params['penalty']],
-    max_iter=100000,
-    solver='liblinear'
-)
-    best_model.fit(X_train, Y_train)
+
 
 

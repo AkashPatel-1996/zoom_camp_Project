@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/739d4d466eaa4ec0a27c7d00413c9dee/artifacts
+end_time: 1719993331627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 739d4d466eaa4ec0a27c7d00413c9dee
+run_name: intelligent-shad-583
+run_uuid: 739d4d466eaa4ec0a27c7d00413c9dee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993331591
+status: 3
+tags: []
+user_id: codespace

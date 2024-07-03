@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/fd57251071324f6fa513e8736580163a/artifacts
+end_time: 1719993331172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd57251071324f6fa513e8736580163a
+run_name: bustling-horse-7
+run_uuid: fd57251071324f6fa513e8736580163a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993331152
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/033de36f67914fd09fc06b8d901b01cb/artifacts
+end_time: 1719993219088
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 033de36f67914fd09fc06b8d901b01cb
+run_name: melodic-wolf-540
+run_uuid: 033de36f67914fd09fc06b8d901b01cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993219070
+status: 3
+tags: []
+user_id: codespace

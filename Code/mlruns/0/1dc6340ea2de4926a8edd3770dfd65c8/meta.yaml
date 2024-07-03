@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/1dc6340ea2de4926a8edd3770dfd65c8/artifacts
+end_time: 1719993191025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1dc6340ea2de4926a8edd3770dfd65c8
+run_name: valuable-quail-467
+run_uuid: 1dc6340ea2de4926a8edd3770dfd65c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993191008
+status: 3
+tags: []
+user_id: codespace

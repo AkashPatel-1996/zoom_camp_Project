@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/3ca4ac1646004a38a18941f43077f685/artifacts
+end_time: 1719993331763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ca4ac1646004a38a18941f43077f685
+run_name: serious-hen-566
+run_uuid: 3ca4ac1646004a38a18941f43077f685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993331745
+status: 3
+tags: []
+user_id: codespace

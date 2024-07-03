@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/bf4b7c116b1c4168865340124fe2906f/artifacts
+end_time: 1719993192085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf4b7c116b1c4168865340124fe2906f
+run_name: calm-pig-460
+run_uuid: bf4b7c116b1c4168865340124fe2906f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993191981
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/0d9802633c9b4d4db3214e82e958bcf0/artifacts
+end_time: 1719993218770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d9802633c9b4d4db3214e82e958bcf0
+run_name: valuable-shrew-166
+run_uuid: 0d9802633c9b4d4db3214e82e958bcf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993218727
+status: 3
+tags: []
+user_id: codespace

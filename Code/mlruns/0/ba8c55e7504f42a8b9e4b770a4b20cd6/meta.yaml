@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ba8c55e7504f42a8b9e4b770a4b20cd6/artifacts
+end_time: 1719993304849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba8c55e7504f42a8b9e4b770a4b20cd6
+run_name: selective-shad-766
+run_uuid: ba8c55e7504f42a8b9e4b770a4b20cd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304827
+status: 3
+tags: []
+user_id: codespace

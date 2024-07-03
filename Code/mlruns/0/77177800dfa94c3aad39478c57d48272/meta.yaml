@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/77177800dfa94c3aad39478c57d48272/artifacts
+end_time: 1719993330105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77177800dfa94c3aad39478c57d48272
+run_name: flawless-moose-266
+run_uuid: 77177800dfa94c3aad39478c57d48272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993329996
+status: 3
+tags: []
+user_id: codespace

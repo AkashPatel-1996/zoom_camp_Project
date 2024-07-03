@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/9f3d94783b744474991c68983b4fe58f/artifacts
+end_time: 1719992301802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f3d94783b744474991c68983b4fe58f
+run_name: omniscient-calf-184
+run_uuid: 9f3d94783b744474991c68983b4fe58f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992301788
+status: 3
+tags: []
+user_id: codespace

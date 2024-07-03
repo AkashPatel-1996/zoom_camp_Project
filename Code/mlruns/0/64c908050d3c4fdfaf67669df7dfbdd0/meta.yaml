@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/64c908050d3c4fdfaf67669df7dfbdd0/artifacts
+end_time: 1719992749594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64c908050d3c4fdfaf67669df7dfbdd0
+run_name: rare-conch-402
+run_uuid: 64c908050d3c4fdfaf67669df7dfbdd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992749504
+status: 3
+tags: []
+user_id: codespace

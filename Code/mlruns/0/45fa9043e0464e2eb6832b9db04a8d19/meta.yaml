@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/45fa9043e0464e2eb6832b9db04a8d19/artifacts
+end_time: 1719993190524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45fa9043e0464e2eb6832b9db04a8d19
+run_name: rebellious-bee-520
+run_uuid: 45fa9043e0464e2eb6832b9db04a8d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993190419
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/28e119ad521648ef9bd9451e22ce4abd/artifacts
+end_time: 1719993305508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28e119ad521648ef9bd9451e22ce4abd
+run_name: auspicious-flea-823
+run_uuid: 28e119ad521648ef9bd9451e22ce4abd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993305490
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/18cfb20aaba04659a317c52e3b253800/artifacts
+end_time: 1719993189852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18cfb20aaba04659a317c52e3b253800
+run_name: exultant-wren-397
+run_uuid: 18cfb20aaba04659a317c52e3b253800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993189836
+status: 3
+tags: []
+user_id: codespace

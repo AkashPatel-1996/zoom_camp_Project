@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/cca78e28f88b4faeb28f895f564e9051/artifacts
+end_time: 1719992300695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cca78e28f88b4faeb28f895f564e9051
+run_name: efficient-swan-373
+run_uuid: cca78e28f88b4faeb28f895f564e9051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300681
+status: 3
+tags: []
+user_id: codespace

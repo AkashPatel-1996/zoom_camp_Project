@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/3c29af975d794117a7df752a6a3e6e00/artifacts
+end_time: 1719993304896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c29af975d794117a7df752a6a3e6e00
+run_name: adorable-cat-687
+run_uuid: 3c29af975d794117a7df752a6a3e6e00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304878
+status: 3
+tags: []
+user_id: codespace

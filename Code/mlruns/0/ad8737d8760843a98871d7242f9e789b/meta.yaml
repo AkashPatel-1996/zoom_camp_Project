@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ad8737d8760843a98871d7242f9e789b/artifacts
+end_time: 1719992750536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad8737d8760843a98871d7242f9e789b
+run_name: enthused-stag-488
+run_uuid: ad8737d8760843a98871d7242f9e789b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992750491
+status: 3
+tags: []
+user_id: codespace

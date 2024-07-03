@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/3a82f64969b844519811ad1a543dfe79/artifacts
+end_time: 1719993192597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a82f64969b844519811ad1a543dfe79
+run_name: glamorous-shrew-635
+run_uuid: 3a82f64969b844519811ad1a543dfe79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993192581
+status: 3
+tags: []
+user_id: codespace

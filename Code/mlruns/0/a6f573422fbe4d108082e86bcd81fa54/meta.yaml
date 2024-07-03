@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/a6f573422fbe4d108082e86bcd81fa54/artifacts
+end_time: 1719993332998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6f573422fbe4d108082e86bcd81fa54
+run_name: bouncy-grouse-639
+run_uuid: a6f573422fbe4d108082e86bcd81fa54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993332919
+status: 3
+tags: []
+user_id: codespace

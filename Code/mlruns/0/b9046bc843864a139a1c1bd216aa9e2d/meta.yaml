@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/b9046bc843864a139a1c1bd216aa9e2d/artifacts
+end_time: 1719993638771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9046bc843864a139a1c1bd216aa9e2d
+run_name: treasured-ape-540
+run_uuid: b9046bc843864a139a1c1bd216aa9e2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993638652
+status: 3
+tags: []
+user_id: codespace

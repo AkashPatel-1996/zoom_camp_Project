@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/524e62d0fc3a4f6db98948858fce2284/artifacts
+end_time: 1719992698979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 524e62d0fc3a4f6db98948858fce2284
+run_name: respected-wolf-386
+run_uuid: 524e62d0fc3a4f6db98948858fce2284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698964
+status: 3
+tags: []
+user_id: codespace

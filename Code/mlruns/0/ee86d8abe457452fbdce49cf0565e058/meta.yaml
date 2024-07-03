@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ee86d8abe457452fbdce49cf0565e058/artifacts
+end_time: 1719993219545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee86d8abe457452fbdce49cf0565e058
+run_name: fortunate-hog-152
+run_uuid: ee86d8abe457452fbdce49cf0565e058
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993219373
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/3a6a067b699d4cf4a293d177dc90c145/artifacts
+end_time: 1719993304336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a6a067b699d4cf4a293d177dc90c145
+run_name: fearless-wolf-886
+run_uuid: 3a6a067b699d4cf4a293d177dc90c145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993304298
+status: 3
+tags: []
+user_id: codespace

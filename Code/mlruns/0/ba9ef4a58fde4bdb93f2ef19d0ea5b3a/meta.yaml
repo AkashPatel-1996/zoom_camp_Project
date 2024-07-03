@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ba9ef4a58fde4bdb93f2ef19d0ea5b3a/artifacts
+end_time: 1719993640516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba9ef4a58fde4bdb93f2ef19d0ea5b3a
+run_name: receptive-wren-814
+run_uuid: ba9ef4a58fde4bdb93f2ef19d0ea5b3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993640496
+status: 3
+tags: []
+user_id: codespace

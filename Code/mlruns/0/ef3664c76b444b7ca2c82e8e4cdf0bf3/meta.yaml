@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/ef3664c76b444b7ca2c82e8e4cdf0bf3/artifacts
+end_time: 1719993640489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef3664c76b444b7ca2c82e8e4cdf0bf3
+run_name: enthused-eel-59
+run_uuid: ef3664c76b444b7ca2c82e8e4cdf0bf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993640469
+status: 3
+tags: []
+user_id: codespace

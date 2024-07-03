@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/16451aa3a1ee496f816f6f66c63b1977/artifacts
+end_time: 1719992300675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16451aa3a1ee496f816f6f66c63b1977
+run_name: rogue-foal-465
+run_uuid: 16451aa3a1ee496f816f6f66c63b1977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300660
+status: 3
+tags: []
+user_id: codespace

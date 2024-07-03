@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/16f1a048dd134c59ad4a7cde78275754/artifacts
+end_time: 1719992698498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16f1a048dd134c59ad4a7cde78275754
+run_name: wistful-sow-849
+run_uuid: 16f1a048dd134c59ad4a7cde78275754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992698483
+status: 3
+tags: []
+user_id: codespace

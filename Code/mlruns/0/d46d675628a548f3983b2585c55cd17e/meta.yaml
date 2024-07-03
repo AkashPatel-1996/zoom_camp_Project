@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/d46d675628a548f3983b2585c55cd17e/artifacts
+end_time: 1719993639856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d46d675628a548f3983b2585c55cd17e
+run_name: legendary-grouse-219
+run_uuid: d46d675628a548f3983b2585c55cd17e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993639707
+status: 3
+tags: []
+user_id: codespace

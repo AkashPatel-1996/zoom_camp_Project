@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/03a4ee558f544ea48519a04f9362a76f/artifacts
+end_time: 1719993217920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03a4ee558f544ea48519a04f9362a76f
+run_name: respected-fowl-88
+run_uuid: 03a4ee558f544ea48519a04f9362a76f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993217902
+status: 3
+tags: []
+user_id: codespace

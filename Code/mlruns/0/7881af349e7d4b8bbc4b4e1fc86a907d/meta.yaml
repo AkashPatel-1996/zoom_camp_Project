@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/7881af349e7d4b8bbc4b4e1fc86a907d/artifacts
+end_time: 1719993332912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7881af349e7d4b8bbc4b4e1fc86a907d
+run_name: unleashed-rat-617
+run_uuid: 7881af349e7d4b8bbc4b4e1fc86a907d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993332893
+status: 3
+tags: []
+user_id: codespace

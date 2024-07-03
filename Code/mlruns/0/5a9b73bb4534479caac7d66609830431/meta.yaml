@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/5a9b73bb4534479caac7d66609830431/artifacts
+end_time: 1719993638551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a9b73bb4534479caac7d66609830431
+run_name: sincere-bass-801
+run_uuid: 5a9b73bb4534479caac7d66609830431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993638531
+status: 3
+tags: []
+user_id: codespace

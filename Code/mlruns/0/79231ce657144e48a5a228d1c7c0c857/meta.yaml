@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/79231ce657144e48a5a228d1c7c0c857/artifacts
+end_time: 1719993640989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79231ce657144e48a5a228d1c7c0c857
+run_name: resilient-shoat-634
+run_uuid: 79231ce657144e48a5a228d1c7c0c857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993640969
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/e1f12da8c4cd443cb544dabffa5db512/artifacts
+end_time: 1719993191361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1f12da8c4cd443cb544dabffa5db512
+run_name: unruly-hound-103
+run_uuid: e1f12da8c4cd443cb544dabffa5db512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993191344
+status: 3
+tags: []
+user_id: codespace

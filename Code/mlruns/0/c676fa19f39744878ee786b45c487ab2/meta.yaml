@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/c676fa19f39744878ee786b45c487ab2/artifacts
+end_time: 1719992752078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c676fa19f39744878ee786b45c487ab2
+run_name: aged-dove-246
+run_uuid: c676fa19f39744878ee786b45c487ab2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992752051
+status: 3
+tags: []
+user_id: codespace

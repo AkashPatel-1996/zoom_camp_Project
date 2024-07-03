@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/293a726fc3ad400a8a39beded068a422/artifacts
+end_time: 1719993191694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 293a726fc3ad400a8a39beded068a422
+run_name: rumbling-moose-117
+run_uuid: 293a726fc3ad400a8a39beded068a422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993191663
+status: 3
+tags: []
+user_id: codespace

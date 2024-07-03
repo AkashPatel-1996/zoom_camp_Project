@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/d11463fec68d41368ce52ee37e550156/artifacts
+end_time: 1719993219315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d11463fec68d41368ce52ee37e550156
+run_name: skillful-moose-119
+run_uuid: d11463fec68d41368ce52ee37e550156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993219298
+status: 3
+tags: []
+user_id: codespace

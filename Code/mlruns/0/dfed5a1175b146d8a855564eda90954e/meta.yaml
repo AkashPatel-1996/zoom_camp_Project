@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/dfed5a1175b146d8a855564eda90954e/artifacts
+end_time: 1719993331094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfed5a1175b146d8a855564eda90954e
+run_name: mercurial-elk-639
+run_uuid: dfed5a1175b146d8a855564eda90954e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993331075
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/d2832398275547358652ce70e63e8752/artifacts
+end_time: 1719992300564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2832398275547358652ce70e63e8752
+run_name: colorful-goose-605
+run_uuid: d2832398275547358652ce70e63e8752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992300551
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/4c4613ba6cb543fba3aab2e33a9972bd/artifacts
+end_time: 1719993303486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c4613ba6cb543fba3aab2e33a9972bd
+run_name: delicate-sloth-361
+run_uuid: 4c4613ba6cb543fba3aab2e33a9972bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993303425
+status: 3
+tags: []
+user_id: codespace

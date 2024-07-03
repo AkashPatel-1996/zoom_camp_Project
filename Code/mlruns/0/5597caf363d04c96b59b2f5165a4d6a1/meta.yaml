@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/5597caf363d04c96b59b2f5165a4d6a1/artifacts
+end_time: 1719993191745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5597caf363d04c96b59b2f5165a4d6a1
+run_name: grandiose-auk-716
+run_uuid: 5597caf363d04c96b59b2f5165a4d6a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993191728
+status: 3
+tags: []
+user_id: codespace

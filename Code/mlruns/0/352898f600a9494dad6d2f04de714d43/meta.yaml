@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/352898f600a9494dad6d2f04de714d43/artifacts
+end_time: 1719993304035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 352898f600a9494dad6d2f04de714d43
+run_name: smiling-stoat-135
+run_uuid: 352898f600a9494dad6d2f04de714d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993303927
+status: 3
+tags: []
+user_id: codespace

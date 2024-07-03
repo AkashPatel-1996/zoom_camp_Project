@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/8240ffb61586413fbf2dea6d343f400e/artifacts
+end_time: 1719993640961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8240ffb61586413fbf2dea6d343f400e
+run_name: intrigued-worm-863
+run_uuid: 8240ffb61586413fbf2dea6d343f400e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993640913
+status: 3
+tags: []
+user_id: codespace

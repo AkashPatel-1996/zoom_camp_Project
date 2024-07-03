@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/b8b79049c047457c9bd3d0394e5df5ed/artifacts
+end_time: 1719993218349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8b79049c047457c9bd3d0394e5df5ed
+run_name: bittersweet-swan-834
+run_uuid: b8b79049c047457c9bd3d0394e5df5ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993218324
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/959b21745d7b42ffaf5ee730852c0b07/artifacts
+end_time: 1719992697806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 959b21745d7b42ffaf5ee730852c0b07
+run_name: adventurous-goat-570
+run_uuid: 959b21745d7b42ffaf5ee730852c0b07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719992697792
+status: 3
+tags: []
+user_id: codespace

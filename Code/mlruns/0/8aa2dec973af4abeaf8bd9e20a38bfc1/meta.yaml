@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/8aa2dec973af4abeaf8bd9e20a38bfc1/artifacts
+end_time: 1719993332423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8aa2dec973af4abeaf8bd9e20a38bfc1
+run_name: legendary-sloth-551
+run_uuid: 8aa2dec973af4abeaf8bd9e20a38bfc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993332309
+status: 3
+tags: []
+user_id: codespace

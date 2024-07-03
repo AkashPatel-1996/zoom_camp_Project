@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/07f700dc1f5d4bdda298c40f9a8c3681/artifacts
+end_time: 1719993638976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07f700dc1f5d4bdda298c40f9a8c3681
+run_name: stylish-gnat-653
+run_uuid: 07f700dc1f5d4bdda298c40f9a8c3681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993638881
+status: 3
+tags: []
+user_id: codespace

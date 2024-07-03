@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/01321fd3af244daaa37e48bea62e01f1/artifacts
+end_time: 1719993190089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01321fd3af244daaa37e48bea62e01f1
+run_name: capricious-seal-778
+run_uuid: 01321fd3af244daaa37e48bea62e01f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993189997
+status: 3
+tags: []
+user_id: codespace

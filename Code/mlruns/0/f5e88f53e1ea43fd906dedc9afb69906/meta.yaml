@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/zoom_camp_Project/Code/mlruns/0/f5e88f53e1ea43fd906dedc9afb69906/artifacts
+end_time: 1719993330535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5e88f53e1ea43fd906dedc9afb69906
+run_name: beautiful-jay-93
+run_uuid: f5e88f53e1ea43fd906dedc9afb69906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719993330414
+status: 3
+tags: []
+user_id: codespace
