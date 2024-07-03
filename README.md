@@ -1,5 +1,12 @@
 # zoom_camp_Project
 
+#UI for User 
+
+![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/09455608-d3ff-459c-a1cd-2a95d947e226)
+
+# Predicted result UI
+
+![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/6ad3232e-ae20-4666-a52b-c1648415bf73)
 
 
 
