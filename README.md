@@ -29,30 +29,30 @@ This project aims to develop a cancer predictions model using machine learning t
 
 ## Directory Structure
 
-yourproject/
-│ ── .github/workflows/
-│   ├── main.yml            #  GitHub Actions workflow to build, test, and deploy a Docker image to Azure Container Instances.
-|
+cancer_prediction_model/
+├── .github/
+│ └── workflows/
+│ └── main.yml # GitHub Actions workflow to build, test, and deploy a Docker image to Azure Container Instances.
 ├── Code/
-│   ├── End_Point_Code           # Flask application codes and Docker file for building iamges
-│   ├── Pipeline_functions.py    # Functions for pipeline
-│   ├── dev_notebook.ipynb      # For Development experiments
-│   └── finding_parameter.py    #  For finding best paramters of model
-│   ├──  main.py                 # Python script to execute different fucntions of Pipeline              
-│   └──  SaveModel.py             # Script to Save Model
-|   └──  test_Ml.py             #  Writing unit test cases using pythest framework
-|   └──  MLFlow.db          #  DB used by ML flow to store results
-|
-
-├── SavedModel /
-│   └── lin_beg.bin  # Saved model in this directory
-│
-|--- MakeFile  # Makefile to install dependencies, run tests, build Docker image, and deploy to Azure Container Instances.
-├── README.md             # Project README file
-├── requirements.txt      # Project dependencies
+│ ├── End_Point_Code/ # Flask application codes and Dockerfile for building images
+│ ├── Pipeline_functions.py # Functions for pipeline
+│ ├── dev_notebook.ipynb # For Development experiments
+│ ├── finding_parameter.py # For finding best parameters of model
+│ ├── main.py # Python script to execute different functions of Pipeline
+│ ├── SaveModel.py # Script to save model
+│ └── test_Ml.py # Writing unit test cases using pytest framework
+│ └── MLFlow.db # DB used by MLflow to store results
+├── SavedModel/
+│ └── lin_beg.bin # Saved model in this directory
+├── Makefile # Makefile to install dependencies, run tests, build Docker image, and deploy to Azure Container Instances.
+├── README.md # Project README file
+└── requirements.txt # Project dependencies
 
 
-# After the CI is suceful from github actions and image is pushed to docker hub , An azure container instance will deploy the image to Production
+
+
+
+## After the CI is suceful from github actions and image is pushed to docker hub , An azure container instance will deploy the image to Production
 
 # Deployed On Azure Cloud through azure container instances
 
