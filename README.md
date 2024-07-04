@@ -27,6 +27,44 @@ This project aims to develop a cancer predictions model using machine learning t
 * GitHub Actions: A CI/CD platform that enables you to automate your software workflows directly in your GitHub repository.
 
 
+## Directory Structure
+
+yourproject/
+│ ── .github/workflows/
+│   ├── main.yml            #  GitHub Actions workflow to build, test, and deploy a Docker image to Azure Container Instances.
+|
+├── Code/
+│   ├── End_Point_Code           # Flask application codes and Docker file for building iamges
+│   ├── Pipeline_functions.py    # Functions for pipeline
+│   ├── dev_notebook.ipynb      # For Development experiments
+│   └── finding_parameter.py    #  For finding best paramters of model
+│   ├──  main.py                 # Python script to execute different fucntions of Pipeline              
+│   └──  SaveModel.py             # Script to Save Model
+|   └──  test_Ml.py             #  Writing unit test cases using pythest framework
+|   └──  MLFlow.db          #  DB used by ML flow to store results
+|
+
+├── SavedModel /
+│   └── lin_beg.bin  # Saved model in this directory
+│
+|--- MakeFile  # Makefile to install dependencies, run tests, build Docker image, and deploy to Azure Container Instances.
+├── README.md             # Project README file
+├── requirements.txt      # Project dependencies
+
+
+# After the CI is suceful from github actions and image is pushed to docker hub , An azure container instance will deploy the image to Production
+
+# Deployed On Azure Cloud through azure container instances
+
+![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/bdb6c229-6878-4181-9e50-9dabbb2c3b2a)
+
+![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/d60b3f07-8bbe-4059-a5c4-ac2849cdf01a)
+
+
+![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/4c9a1965-5376-48b0-a320-9e639f4bd655)
+
+
+# Below are the screenshots of diffrent parts of project
 
 # Unit test cases
 
@@ -59,14 +97,6 @@ This project aims to develop a cancer predictions model using machine learning t
 
 ![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/df958a24-55e4-4274-92f7-382b120175cb)
 
-# Deployed On Azure Cloud through azure container instances
-
-![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/bdb6c229-6878-4181-9e50-9dabbb2c3b2a)
-
-![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/d60b3f07-8bbe-4059-a5c4-ac2849cdf01a)
-
-
-![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/4c9a1965-5376-48b0-a320-9e639f4bd655)
 
 
  
