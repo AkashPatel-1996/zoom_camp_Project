@@ -14,6 +14,18 @@ This project aims to develop a cancer predictions model using machine learning t
 
 
 
+# Technologies Used
+
+* Docker: A platform for developing, shipping, and running applications inside lightweight, portable containers.
+* Flask: A micro web framework for Python, used to build web applications quickly and with minimal code.
+* MLflow: An open-source platform for managing the end-to-end machine learning lifecycle, including experimentation, reproducibility, and deployment.
+* scikit-learn: A popular Python library for machine learning, providing simple and efficient tools for data mining and data analysis.
+* Parameter Tuning: The process of optimizing hyperparameters of a machine learning model to improve its performance.
+* MLflow Registry: A centralized model store that enables you to manage the full lifecycle of MLflow models, including versioning, staging, and production.
+* Pytest: A robust testing framework for Python that makes it easy to write simple and scalable test cases.
+* Azure Container Instances: A service that allows you to run Docker containers on Azure without managing the underlying infrastructure.
+* GitHub Actions: A CI/CD platform that enables you to automate your software workflows directly in your GitHub repository.
+
 
 
 # Unit test cases
