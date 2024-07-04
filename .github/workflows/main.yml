@@ -19,3 +19,9 @@ jobs:
     - name: Test with pytest
       run: |
         make test
+    - name: Log in to Docker Hub
+      run: echo "${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}" | docker login -u akashllmproject --password-stdin
+    - name: Build Docker image
+      run: docker build -t akashllmproject/final_prediction_image:latest Code/end_point_code/.
+    - name: Push Docker image
+      run: docker push akashllmproject/final_prediction_image:latest
