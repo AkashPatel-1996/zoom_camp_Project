@@ -29,24 +29,8 @@ This project aims to develop a cancer predictions model using machine learning t
 
 ## Directory Structure
 
-cancer_prediction_model/
-├── .github/
-│ └── workflows/
-│ └── main.yml # GitHub Actions workflow to build, test, and deploy a Docker image to Azure Container Instances.
-├── Code/
-│ ├── End_Point_Code/ # Flask application codes and Dockerfile for building images
-│ ├── Pipeline_functions.py # Functions for pipeline
-│ ├── dev_notebook.ipynb # For Development experiments
-│ ├── finding_parameter.py # For finding best parameters of model
-│ ├── main.py # Python script to execute different functions of Pipeline
-│ ├── SaveModel.py # Script to save model
-│ └── test_Ml.py # Writing unit test cases using pytest framework
-│ └── MLFlow.db # DB used by MLflow to store results
-├── SavedModel/
-│ └── lin_beg.bin # Saved model in this directory
-├── Makefile # Makefile to install dependencies, run tests, build Docker image, and deploy to Azure Container Instances.
-├── README.md # Project README file
-└── requirements.txt # Project dependencies
+![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/b51315b9-44a7-49a4-83a6-1213923a2b51)
+
 
 
 
