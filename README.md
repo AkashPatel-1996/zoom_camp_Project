@@ -29,7 +29,7 @@ This project aims to develop a cancer predictions model using machine learning t
 
 ## Directory Structure
 
-![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/333102a2-27d8-4362-84df-1b5926d53b02)
+![image](https://github.com/AkashPatel-1996/zoom_camp_Project/assets/84029971/c0d163e0-551a-4bc4-84f4-18a2ae979beb)
 
 
 
