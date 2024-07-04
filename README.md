@@ -1,7 +1,7 @@
 # zoom_camp_Project
 
 # Introduction
-This project focuses on developing a machine learning model to predict cancer diagnoses based on patient data. By leveraging advanced algorithms and statistical techniques, the model aims to assist in early detection and improve the accuracy of cancer diagnostics.
+This project aims to develop a cancer predictions model using machine learning techniques. The model is built with Flask for the web application, Docker for containerization, and MLflow for experiment tracking and model management. Additionally, MLflow Registry is used for managing model versions, and the deployment is handled via Azure Container Instances, ensuring scalability and ease of use.
 
 # UI for User 
 
